@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sele", "sele\sele.csproj", "{0BAFFEDC-03A8-4AD6-8068-D0AA1849C849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BAFFEDC-03A8-4AD6-8068-D0AA1849C849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAFFEDC-03A8-4AD6-8068-D0AA1849C849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAFFEDC-03A8-4AD6-8068-D0AA1849C849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAFFEDC-03A8-4AD6-8068-D0AA1849C849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9AA06F0-2C75-461A-AC02-735500F653FC}
+	EndGlobalSection
+EndGlobal
